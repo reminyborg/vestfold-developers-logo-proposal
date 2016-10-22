@@ -2,10 +2,10 @@
 
 Very simple logo proposal for Vestfold Developers.
 
-This is only meant as a starting ground. And a base repo so i can show it off. :grin:
+This is only meant as a starting ground and as a base repo to show it off. :grin:
 
 ![logo](/logo.png)
 
 ## Idea
 - Based of the current vestfold municipality shield.
-- Svg is awesome :tada: and easily modified, the base is hand crafted svg code.
+- Svg is awesome :tada: and easily modified, the base is handcrafted svg code.
