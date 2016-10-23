@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 72" width="600" height="72" fill="#f36523">
+  <g transform="translate(26,4)">
+    <clipPath id="shield">
+      <path d="M64 0 Q64 48 32 64 Q0 48 0 0 Z" />
+    </clipPath>
+    <rect clip-path="url(#shield)" x="0" y="0" width="64" height="64" fill="#f36523"/>
+    <text clip-path="url(#shield)" font-weight="900" fill="#ffe82a" x="-7" y="55" font-family="avenir" font-size="70">V</text>
+    <text clip-path="url(#shield)" font-weight="900" fill="#ffe82a" x="26" y="55" font-family="avenir" font-size="70">D</text>
+  </g>
+  <text font-weight="700" fill="gray" x="112" y="46" font-family="avenir" font-size="40">Vestfold Developers</text>
+</svg>
