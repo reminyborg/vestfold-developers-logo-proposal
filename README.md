@@ -1,8 +1,6 @@
 # Vestfold Developers Logo proposal
 
-Very simple logo proposal for Vestfold Developers.
-
-This is only meant as a starting ground and as a base repo to show it off. :grin:
+Logo proposal for Vestfold Developers.
 
 ![logo](/logo.png)
 

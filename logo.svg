@@ -1,4 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="128" height="128" fill="lightgray">
-  <path d="M64 0 Q60 48 32 64 Q4 48 0 0 Z" />
-  <text text-anchor="middle" fill="white" x="32" y="34" font-family="avenir next" font-size="35">VD</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="128" height="128" fill="#f36523">
+  <path d="M64 0 Q64 48 32 64 Q0 48 0 0 Z" />
+  <clipPath id="shield">
+    <path d="M64 0 Q64 48 32 64 Q0 48 0 0 Z" />
+  </clipPath>
+  <text clip-path="url(#shield)" font-weight="900" fill="#ffe82a" x="-7" y="55" font-family="avenir" font-size="70">V</text>
+  <text clip-path="url(#shield)" font-weight="900" fill="#ffe82a" x="26" y="55" font-family="avenir" font-size="70">D</text>
 </svg>
